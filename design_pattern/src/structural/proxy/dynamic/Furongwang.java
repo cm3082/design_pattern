@@ -1,0 +1,11 @@
+package structural.proxy.dynamic;
+
+public class Furongwang implements Cigarette {
+
+	@Override
+	public void sell() {
+		// TODO Auto-generated method stub
+		System.out.println("售卖的是正宗的芙蓉王，可以扫描条形码查证。");
+	}
+
+}
