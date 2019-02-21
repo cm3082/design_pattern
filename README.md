@@ -8,6 +8,8 @@
 
 行为型模式，共十一种：策略模式、模板方法模式、观察者模式、迭代子模式、责任链模式、命令模式、备忘录模式、状态模式、访问者模式、中介者模式、解释器模式。
 
-## 上图
-##### 2. 7种结构型模式
+## 如下图
+##### 7种结构型模式
 ![image](https://github.com/cm3082/design_pattern/blob/master/design_pattern/src/img/1354192484_5322.PNG)
+##### 11种行为型模式
+![image](https://github.com/cm3082/design_pattern/blob/master/design_pattern/src/img/1354264672_7575.PNG)
